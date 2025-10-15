@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1748870078 source:c:\users\raul.farias\documents\facul\lfat\projeto1\reconhecedor_gramatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reconhecedor_gramatica.h"
+	<windows.h>
+
+1748870221 c:\users\raul.farias\documents\facul\lfat\projeto1\reconhecedor_gramatica\reconhecedor_gramatica.h
+	<stdio.h>
+
+1748889922 source:c:\users\raul.farias\documents\facul\lfat\projeto1\reconhecedor_gramatica\reconhecedor_gramatica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reconhecedor_gramatica.h"
+
+1760541669 source:c:\users\raul.farias\desktop\lfat_reconhecedor_de_gramaticas-main\reconhecedor_gramatica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reconhecedor_gramatica.h"
+
+1760541809 c:\users\raul.farias\desktop\lfat_reconhecedor_de_gramaticas-main\reconhecedor_gramatica.h
+	<stdio.h>
+
+1760539298 source:c:\users\raul.farias\desktop\lfat_reconhecedor_de_gramaticas-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reconhecedor_gramatica.h"
+	<windows.h>
+
